@@ -26,8 +26,8 @@
 Requires **Python 3.9+** and a webcam.
 
 ```bash
-git clone https://github.com/<your-username>/ad-blocking-glasses.git
-cd ad-blocking-glasses
+git clone https://github.com/GreenSkies-Collab/Anti-Advertising-AR-Glasses.git
+cd Anti-Advertising-AR-Glasses
 
 python -m venv .venv
 # Windows:      .venv\Scripts\activate
